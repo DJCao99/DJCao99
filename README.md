@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DJCao99
+- 👀 I’m interested in lerning to code
+- 🌱 I’m currently learning python and in the futur Java 
